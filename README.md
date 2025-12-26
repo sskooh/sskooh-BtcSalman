@@ -89,27 +89,6 @@ Microsoft Identity Platform
 
 npm
 
-▶️ How to Run
-
-Clone the repository:
-
-git clone https://github.com/your-username/BtcSalman.git
-
-
-Open the solution in Visual Studio
-
-Configure services in appsettings.json:
-
-MongoDB connection string
-
-RabbitMQ host, username, and password
-
-Microsoft Identity settings
-
-Ensure MongoDB and RabbitMQ are running
-
-Run the BTCSalman.Web project
-
 📄 License
 
 This project is licensed under the MIT License, allowing free use, modification, and distribution.
@@ -197,26 +176,6 @@ Microsoft Identity Platform
 
 npm
 
-▶️ نحوه اجرا
-
-کلون کردن پروژه:
-
-git clone https://github.com/your-username/BtcSalman.git
-
-
-باز کردن Solution در Visual Studio
-
-تنظیم فایل appsettings.json:
-
-Connection String مربوط به MongoDB
-
-اطلاعات RabbitMQ (Host, User, Password)
-
-تنظیمات Identity
-
-اجرای MongoDB و RabbitMQ
-
-اجرای پروژه BTCSalman.Web
 
 📄 لایسنس
 
